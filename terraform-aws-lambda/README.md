@@ -37,7 +37,7 @@ provider "aws" {
 }
 
 module "lambda" {
-  source           = "moritzzimmer/lambda/aws"
+  source           = "suresh/lambda/aws"
   version          = "5.5.2"
   filename         = "my-package.zip"
   function_name    = "my-function"

@@ -1,1 +1,3 @@
-# This file containes CloudFormation script for ...
+# CloudFormation and Terraform scripts for AWS Lambda 
+
+
